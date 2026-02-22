@@ -4,80 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc29d5b5dc4acce",
+        "id": "1dfa8f78f5ef98d4",
         "type": "tabs",
         "children": [
           {
-            "id": "d2ac92b93293ad49",
+            "id": "fee30e9272ec44d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теор вер конспект 13.02.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теор вер конспект 13.02"
-            }
-          },
-          {
-            "id": "3fd7fbb008268513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теор вер конспект 20.02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Теор вер конспект 20.02"
-            }
-          },
-          {
-            "id": "d189b22293a23e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фундаментальные Алгоритмы 21.02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Фундаментальные Алгоритмы 21.02"
-            }
-          },
-          {
-            "id": "55750c646f4c70e1",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Без названия.base",
-                "viewName": "Таблица"
-              },
-              "icon": "lucide-table",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "55837444f9157aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,27 +184,32 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "230c6112ffbbfca0",
+  "active": "fee30e9272ec44d4",
   "lastOpenFiles": [
-    "Без названия",
-    "Социология 14.02.md",
-    "Теор вер конспект 20.02.md",
-    "Лабы СиПрог 21.02.md",
-    "Pasted image 20260221113148.png",
-    "Pasted image 20260221113142.png",
-    "Pasted image 20260221111211.png",
-    "Pasted image 20260221105008.png",
-    "Pasted image 20260213094648.png",
-    "Pasted image 20260213094622.png",
-    "Фундаментальные Алгоритмы 21.02.md",
-    "Pasted image 20260213094452.png",
-    "Теор вер конспект 13.02.md",
-    "СиПрог 14.02.md",
+    "Системное программирование/Лабы СиПрог 21.02.md",
+    "Системное программирование/СиПрог 14.02.md",
+    "Социология/Социология как наука. Методы социологического исследования.md",
+    "ТВиМС/Теор вер конспект 13.02.md",
+    "Фундаментальные алгоритмы/Фундаментальные Алгоритмы 21.02.md",
+    "ТВиМС/Теор вер конспект 20.02.md",
+    "README.md",
     "Без названия.base",
+    "Вложения/Pasted image 20260221111211.png",
+    "Вложения/Pasted image 20260213094622.png",
+    "Вложения",
+    "ТВиМС",
+    "Социология",
+    "Фундаментальные алгоритмы",
+    "Системное программирование",
+    "Вложения/Pasted image 20260221113148.png",
+    "Вложения/Pasted image 20260221113142.png",
+    "Pasted image 20260221105008.png",
+    "Вложения/Pasted image 20260213094648.png",
+    "Pasted image 20260213094452.png",
     "Добро пожаловать.md",
     "Без названия.md",
     "2026-02-14.md",
-    "Pasted image 20260221105714.png",
+    "Вложения/Pasted image 20260221105714.png",
     "Без названия 1"
   ]
 }
