@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТВиМС/Оглавление.md",
+                "file": "ТВиМС/Лекция 02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оглавление"
+              "title": "Лекция 02"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ТВиМС/Оглавление.md",
+                "file": "ТВиМС/Лекция 02.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Оглавление"
+              "title": "Структура Лекция 02"
             }
           }
         ],
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +185,9 @@
   },
   "active": "fee30e9272ec44d4",
   "lastOpenFiles": [
+    "ТВиМС/Оглавление.md",
     "ТВиМС/Лекция 02.md",
     "ТВиМС/Теор вер конспект 20.02.md",
-    "ТВиМС/Оглавление.md",
     "ТВиМС/Лекция 01.md",
     "Лекция 01.md",
     "Социология/Социология как наука. Методы социологического исследования.md",
